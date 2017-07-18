@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For TalkB2A.h
+#######################################
+ 
+#######################################
+# Datatypes (KEYWORD1) 数据类型关键字
+#######################################
+ 
+TalkB2A        		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2) 方法类型关键字
+#######################################
+
+ReadCommand			KEYWORD2
+Tokenizer			KEYWORD2
+ClearSerialBuffer	KEYWORD2
+ClearAllBuffer		KEYWORD2
+ReplyStatus			KEYWORD2
+StartGet			KEYWORD2
+AddParameter		KEYWORD2
+SendData			KEYWORD2
+GetFilename			KEYWORD2
+TwoDigitFormat	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)  常量类型关键字
+#######################################
+ 
+BUFFERSIZE        	LITERAL1
+PARAMETERSIZE       LITERAL1
+TBUFFERSIZE		LITERAL1
